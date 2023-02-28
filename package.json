@@ -1,0 +1,16 @@
+{
+  "name": "my-tabnews",
+  "version": "1.0.0",
+  "description": "Aplicação de ponta a ponta e escalável para enfrentar os desafios reais da internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
