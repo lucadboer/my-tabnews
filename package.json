@@ -4,7 +4,7 @@
   "description": "Aplicação de ponta a ponta e escalável para enfrentar os desafios reais da internet",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
